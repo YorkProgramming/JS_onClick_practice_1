@@ -1,0 +1,1 @@
+Simple profile page using HTML and JavaScript to practice onClicks and CSS styling.
